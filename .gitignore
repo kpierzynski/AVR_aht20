@@ -1,0 +1,4 @@
+src/*.hex
+src/*.bin
+src/main
+src/main.o
